@@ -90,6 +90,8 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 
 *   [NIPS2015 Papers (version 2) [Kaggle]](https://www.kaggle.com/benhamner/nips-2015-papers/version/2): full text of all NIPS2015 papers (335 MB)
 
+*   [NPS Chat Corpus](http://faculty.nps.edu/cmartell/NPSChat.htm): human language data available in nltk
+
 *   [NYTimes Facebook Data](http://minimaxir.com/2015/07/facebook-scraper/): all the NYTimes facebook posts (5 MB)
 
 *   [Objective truths of sentences/concept pairs](https://www.crowdflower.com/data-for-everyone/): Contributors read a sentence with two concepts. For example “a dog is a kind of animal” or “captain can have the same meaning as master.” They were then asked if the sentence could be true and ranked it on a 1-5 scale. (700 KB)
