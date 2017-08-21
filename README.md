@@ -84,6 +84,8 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 
 *   [MCTest](http://research.microsoft.com/en-us/um/redmond/projects/mctest/index.html): a freely available set of 660 stories and associated questions intended for research on the machine comprehension of text; for question answering (1 MB)
 
+*   [Miami Corpus](http://bangortalk.org.uk/speakers.php?c=miami): consists of conversations by Spanish-speakers in Florida, all of whom are bilingual in English.
+
 *   [Million Song Dataset](https://labrosa.ee.columbia.edu/millionsong/): collection of audio features and metadata for a million contemporary popular music tracks
 
 *   [NEGRA](http://www.coli.uni-saarland.de/projects/sfb378/negra-corpus/negra-corpus.html): A Syntactically Annotated Corpus of German Newspaper Texts. Available for free for all Universities and non-profit organizations. Need to sign and send form to obtain. (on request)
